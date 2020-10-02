@@ -10,8 +10,6 @@ Dim closedstock As Double
 Dim ws As Worksheet
 
 'Declare Bonus/Challenge Variables
-Dim increase As String
-Dim decrease As String
 Dim nrow As Long
 
 For Each ws In Worksheets
